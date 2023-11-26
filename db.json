@@ -1,0 +1,67 @@
+{
+  "albums": [
+  {
+      "id": 1,
+    "title": "Portugal",
+    "description": "Fotos da viagem de Portugal",
+    "location": {
+      "latitude": -9.177321703347404,
+      "longitude": 38.69148273549817
+    },
+    "date": "2023-05-30",
+    "coverImageUrl": "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968610/Lisboa/fotocapa.jpg",
+    "fotos": [
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968591/Lisboa/foto1.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968621/Lisboa/foto2.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968581/Lisboa/foto3.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968574/Lisboa/foto4.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968565/Lisboa/foto5.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968533/Lisboa/foto6.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968602/Lisboa/foto7.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1700968610/Lisboa/fotocapa.jpg"
+    ]
+  },
+    {
+    "id": 2,
+    "title": "Barcelona",
+    "description": "Fotos da viagem da Espanha",
+    "location": {
+      "latitude": 2.097875322773218,
+      "longitude": 41.47186258500573
+    },
+    "date": "2023-05-30",
+    "coverImageUrl": "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007227/Barcelona/fotocapa.jpg",
+    "fotos": [
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007258/Barcelona/foto1.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007284/Barcelona/foto2.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007278/Barcelona/foto3.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007265/Barcelona/foto4.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007252/Barcelona/foto5.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007243/Barcelona/foto6.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007218/Barcelona/foto9.jpg",
+      "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007271/Barcelona/foto7.jpg"
+    ]
+    },
+    {    
+      "id": 3,
+      "title": "Florença",
+      "description": "Fotos da viagem de Florença",
+      "location": {
+        "latitude": 11.243198859653264,
+        "longitude": 43.77090242082196
+      },
+      "date": "2023-05-30",
+      "coverImageUrl": "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007670/Floren%C3%A7a/qp5qm8avdsk0ahqm0fkk.jpg",
+      "fotos": [
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007601/Floren%C3%A7a/wnqtxtpyzeb4wcrarvky.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007640/Floren%C3%A7a/raka7cmpoxbrqmyj1lzc.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007713/Floren%C3%A7a/bvkqtjve2jah9eu8pxom.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007706/Floren%C3%A7a/v0ovrighpu2wo9gyeua1.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007698/Floren%C3%A7a/toffgjkuteotbtu7fmtm.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007611/Floren%C3%A7a/qz7fhiielsagdaii9rlq.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007630/Floren%C3%A7a/ntfy0zz4poy1yy41wnit.jpg",
+        "https://res.cloudinary.com/dsosbyrz4/image/upload/v1701007590/Floren%C3%A7a/aa3zf9ymchd4z1rvrcpz.jpg"
+      ]
+    }
+  ]
+}
